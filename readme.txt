@@ -10,6 +10,7 @@ git add (file name)
 
 git commit -m "meaningful message"
 
+git push 
 
 
 
